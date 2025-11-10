@@ -23,6 +23,7 @@ WORKFLOWS = [
     {"repo": "base_packed_mg2", "workflow": "main_base_to_packed.yaml"},
     {"repo": "piso_outbound_go1", "workflow": "piso10.yml"},
     {"repo": "base_packed_go1", "workflow": "main_base_to_packed.yaml"},
+    {"repo": "dados_fmhub_26", "workflow": "atualizacao_lsp26.yaml"},
 ]
 
 # Rota principal para verificar se o app está no ar
