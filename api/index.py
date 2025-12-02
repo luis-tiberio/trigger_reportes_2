@@ -15,7 +15,7 @@ HEADERS = {
 WORKFLOWS = [
     {"repo": "att_reporte", "workflow": "reporte.yml"},
     {"repo": "backlog", "workflow": "backlog.yml"},
-    {"repo": "reportes_sp5", "workflow": "dados.yml"},
+    {"repo": "reportes_sp5", "workflow": "main_script.yml"}, # alterado dados.yml para main_script.yml
     {"repo": "reportes_sp15", "workflow": "atualizacao_sp15.yaml"},
     {"repo": "hora_hora_louveira", "workflow": "atualizacao_sp7.yaml"},
     {"repo": "reportes_sp7", "workflow": "atualizacao_sp7.yaml"},
